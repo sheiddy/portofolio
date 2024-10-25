@@ -5,6 +5,7 @@
 5. <a href="https://github.com/sheiddy/ProgramuLuNicu">Programu Lu Nicu</a>
 6. <a href="https://github.com/sheiddy/TarkovCompanion">Tarkov Companion</a>
 7. <a href="https://github.com/sheiddy/Ark_WebShop">ARK Webshop</a>
+8. <a href="https://github.com/sheiddy/Soccer_Stats_Retrieval">Soccer stats retrieval</a>
 
 
 # <a href="./vehtracker_bot.md">Vehicles Lost Tracker Bot</a>
@@ -189,3 +190,7 @@ Web Tool For ARK Shopping
 
 ![image](https://user-images.githubusercontent.com/9354674/195377857-b96463da-5513-446c-80d1-164b2830b557.png)
 
+<!----------------------------------------------------------------------------------------------------------------->
+
+# <a href="./soccer_stats.md">ARK Webshop</a>:
+<a href="https://github.com/sheiddy/Soccer_Stats_Retrieval">Repo</a>
