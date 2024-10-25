@@ -1,6 +1,6 @@
 1. [Vehicles Lost Tracker Bot](#vehicles-lost-tracker-bot)
 2. [Mapper Bot](#mapper_bot)
-3. [Trader Bot](#csgo_traderbot)
+3. [CSGO Trader Bot](#csgo_traderbot)
 4. [ESP Smart Home](#esp_smarthome)
 5. [Programu Lu Nicu](#programulunicu)
 6. [Tarkov Companion](#tarkovcompanion)
