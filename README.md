@@ -1,14 +1,14 @@
-1. <a href="https://github.com/sheiddy/tedicross_modified">Vehicles Lost Tracker Bot</a>
-2. <a href="https://github.com/sheiddy/map_bot">Mapper Bot</a>
-3. <a href="https://github.com/sheiddy/CSGO_TraderParser">CSGO Trader Parser</a>
-4. <a href="https://github.com/sheiddy/ESP_SmartHome">ESP Smart Home</a>
-5. <a href="https://github.com/sheiddy/ProgramuLuNicu">Programu Lu Nicu</a>
-6. <a href="https://github.com/sheiddy/TarkovCompanion">Tarkov Companion</a>
-7. <a href="https://github.com/sheiddy/Ark_WebShop">ARK Webshop</a>
-8. <a href="https://github.com/sheiddy/Soccer_Stats_Retrieval">Soccer stats retrieval</a>
+1. [Vehicles Lost Tracker Bot](#vehicles-lost-tracker-bot)
+2. [Mapper Bot](#mapper_bot)
+3. [Trader Bot](#csgo_traderbot)
+4. [ESP Smart Home](#esp_smarthome)
+5. [Programu Lu Nicu](#programulunicu)
+6. [Tarkov Companion](#tarkovcompanion)
+7. [ARK Webshop](#ark_webshop)
+8. [Soccer stats retrieval](#soccer_stats)
 
 
-# <a href="./vehtracker_bot.md">Vehicles Lost Tracker Bot</a>
+# <a id="vehicles-lost-tracker-bot" href="./vehtracker_bot.md">Vehicles Lost Tracker Bot</a>
 <a href="https://github.com/sheiddy/tedicross_modified">Repo</a>
 ### Original Message (from telegram):
 
@@ -34,7 +34,7 @@ INFO: Twitter does not allow for more than 4 media (images or videos) to be post
 
 <!----------------------------------------------------------------------------------------------------------------->
 
-# <a href="./mapper_bot.md">Mapper Bot</a>:
+# <a id="mapper_bot" href="./mapper_bot.md">Mapper Bot</a>:
 <a href="https://github.com/sheiddy/map_bot">Repo</a>
 
 ### Usage:
@@ -76,7 +76,7 @@ List of commands:
 
 <!----------------------------------------------------------------------------------------------------------------->
 
-# <a href="./csgo_traderbot.md">CS:GO Trader Parser</a>:
+# <a id="csgo_traderbot" href="./csgo_traderbot.md">CS:GO Trader Parser</a>:
 <a href="https://github.com/sheiddy/CSGO_TraderParser">Repo</a>
 
 Trade Parser bot for CSGOLounge and Dota2Lounge. It parses the entire website for trades that are favorable for us.
@@ -106,7 +106,7 @@ Item Link = Link for each item on the steam community market.
 
 <!----------------------------------------------------------------------------------------------------------------->
 
-# <a href="./mapper_bot.md">ESP Smart Home (WIP)</a>:
+# <a id="esp_smarthome" href="./esp_smarthome.md">ESP Smart Home (WIP)</a>:
 <a href="https://github.com/sheiddy/ESP_SmartHome">Repo</a>
 
 Smart house interface using multiple ESP8266 across different rooms, with various sensors.
@@ -115,7 +115,7 @@ Smart house interface using multiple ESP8266 across different rooms, with variou
 
 <!----------------------------------------------------------------------------------------------------------------->
 
-# <a href="./programulunicu.md">Programu' Lu' Nicu</a>:
+# <a id="programulunicu" href="./programulunicu.md">Programu' Lu' Nicu</a>:
 <a href="https://github.com/sheiddy/ProgramuLuNicu">Repo</a>
 
 Does a bunch of stuff suited for me, or stuff that I need/liked to build.
@@ -153,7 +153,7 @@ Does a bunch of stuff suited for me, or stuff that I need/liked to build.
 
 <!----------------------------------------------------------------------------------------------------------------->
 
-# <a href="./tarkovcompanion.md">Tarkov Companion</a>:
+# <a id="tarkovcompanion" href="./tarkovcompanion.md">Tarkov Companion</a>:
 <a href="https://github.com/sheiddy/TarkovCompanion">Repo</a>
 
 Tarkov Unofficial Companion
@@ -170,7 +170,7 @@ Quests Tab:
 
 <!----------------------------------------------------------------------------------------------------------------->
 
-# <a href="./ark_webshop.md">ARK Webshop</a>:
+# <a id="ark_webshop" href="./ark_webshop.md">ARK Webshop</a>:
 <a href="https://github.com/sheiddy/Ark_WebShop">Repo</a>
 
 Web Tool For ARK Shopping
@@ -192,5 +192,22 @@ Web Tool For ARK Shopping
 
 <!----------------------------------------------------------------------------------------------------------------->
 
-# <a href="./soccer_stats.md">ARK Webshop</a>:
+# <a id="soccer_stats" href="./soccer_stats.md">Soccer Stats Retrieval</a>:
 <a href="https://github.com/sheiddy/Soccer_Stats_Retrieval">Repo</a>
+
+Gets all matches from soccerstats.com for the selected day that have not yet started. 
+For each match found, it parses a set of data and passes them trough a self-made algorithm that returns matches that are worth betting on. 
+Optionally, the "Parse Odds", when enabled, will search for those matches on flashscore.com and return their respective odds.
+
+The website has been discontinued due to me a combination of me losing interest in sports betting, the introduction of cookies and other.
+
+![image](https://user-images.githubusercontent.com/9354674/195376037-f3dd4edc-6d4f-40dc-bbde-4b79216d6984.png)
+
+![image](https://user-images.githubusercontent.com/9354674/195376066-6c2e7b43-2144-4931-9e3a-a55a394b0d4c.png)
+
+![image](https://user-images.githubusercontent.com/9354674/195376096-7acdd8c0-30e5-4233-a1ad-3fcb6df63db8.png)
+
+![image](https://user-images.githubusercontent.com/9354674/195376131-a7365a23-0c58-408d-a4cb-ba74eac9e595.png)
+
+![image](https://user-images.githubusercontent.com/9354674/195376157-6004cebd-7278-421a-8e23-2cfb3cad2027.png)
+
