@@ -6,6 +6,11 @@ TediCross - forked and modified by @sheiddy
 =========
 TediCross is a fork of a bot which bridges a chat in [Telegram](https://telegram.org) with a channel in [Discord](https://discord.com/) and modified to also post on [Twitter](https://twitter.com/).
 
+This is a bot that lurks on telegram servers and gets messages about finding a new vehicle that is destroyed or damaged in the Ukraine - Russia war (2022-).
+The bot will get the messages from another (telegram) bot that forwards the messages found to a private telegram server that we have access to. The bot will parse the message and translate it and then:
+1. Forwards the message including photos/videosto a discord server and
+2. Takes the message including up to 4 photos/videos and makes a post on <a href="https://x.com/LostWarBot">twitter</a> about it.
+
 
 Channels
 ---------------------
