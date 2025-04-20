@@ -70,7 +70,7 @@ You can you use the command with minimum 2 inputs (latitude and longitude) and 1
     `UAMap - uacontrolmap `
     `AP - Andrew Perpetua`
     `AMK - AMK Mapping (default)`
-    `CCaprice - creamy_carice`
+    `CCaprice - creamy_caprice`
 
 
 Different maps have different loading times. Wait a few seconds if it doesn't load immediately :joe_realShrug: 
