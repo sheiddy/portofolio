@@ -13,7 +13,7 @@
 
 This is a bot that lurks on telegram servers and gets messages about finding a new vehicle that is destroyed or damaged in the Ukraine - Russia war (2022-).
 The bot will get the messages from another (telegram) bot that forwards the messages found to a private telegram server that we have access to. The bot will parse the message and translate it and then:
-1. Forwards the message including photos/videosto a discord server and
+1. Forwards the message including photos/videos to a discord server and
 2. Takes the message including up to 4 photos/videos and makes a post on <a href="https://x.com/LostWarBot">twitter</a> about it.
 ### Original Message (from telegram):
 
