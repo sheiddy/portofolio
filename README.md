@@ -1,11 +1,24 @@
-1. [Vehicles Lost Tracker Bot](#vehicles-lost-tracker-bot)
-2. [Mapper Bot](#mapper_bot)
-3. [CSGO Trader Bot](#csgo_traderbot)
-4. [ESP Smart Home](#esp_smarthome)
-5. [Programu Lu Nicu](#programulunicu)
+1. Air Raid Alert Bot
+2. [Vehicles Lost Tracker Bot](#vehicles-lost-tracker-bot)
+3. [Mapper Bot](#mapper_bot)
+4. [CSGO Trader Bot](#csgo_traderbot)
+5. [ESP Smart Home](#esp_smarthome)
 6. [Tarkov Companion](#tarkovcompanion)
 7. [ARK Webshop](#ark_webshop)
 8. [Soccer stats retrieval](#soccer_stats)
+
+
+# Air Raid Alert Bot
+Discord notifications of air raids alerts in Ukraine. Done in n8n. Will send city/region update and oblast raid alerts with an associated oblasts map.  
+V1:  
+![image](https://github.com/user-attachments/assets/c04924b6-5499-4af4-b5e6-956fb03d0986)  
+V2:  
+![image](https://github.com/user-attachments/assets/c867008e-e8e3-4f8d-aa25-b6d85e312912)  
+Notifications message:  
+![image](https://github.com/user-attachments/assets/3c833e32-06e1-4219-bdcd-fdc7f8077899)
+
+
+
 
 
 # <a id="vehicles-lost-tracker-bot" href="./vehtracker_bot.md">Vehicles Lost Tracker Bot</a>
