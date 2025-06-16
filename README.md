@@ -15,7 +15,8 @@ V1:
 V2:  
 ![image](https://github.com/user-attachments/assets/c867008e-e8e3-4f8d-aa25-b6d85e312912)  
 Notifications message:  
-![image](https://github.com/user-attachments/assets/3c833e32-06e1-4219-bdcd-fdc7f8077899)
+![image](https://github.com/user-attachments/assets/dddb0408-59e4-44cd-86cb-433d406ce135)
+
 
 
 
