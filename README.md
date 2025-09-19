@@ -1,11 +1,20 @@
-1. Air Raid Alert Bot
-2. [Vehicles Lost Tracker Bot](#vehicles-lost-tracker-bot)
-3. [Mapper Bot](#mapper_bot)
-4. [CSGO Trader Bot](#csgo_traderbot)
-5. [ESP Smart Home](#esp_smarthome)
-6. [Tarkov Companion](#tarkovcompanion)
-7. [ARK Webshop](#ark_webshop)
-8. [Soccer stats retrieval](#soccer_stats)
+Following is a list of some of my projects, ordered by date, most recent first.
+
+1. Bots Updates Bot
+2. Air Raid Alert Bot
+3. [Vehicles Lost Tracker Bot](#vehicles-lost-tracker-bot)
+4. [Mapper Bot](#mapper_bot)
+5. [CSGO Trader Bot](#csgo_traderbot)
+6. [ESP Smart Home](#esp_smarthome)
+7. [Tarkov Companion](#tarkovcompanion)
+8. [ARK Webshop](#ark_webshop)
+9. [Soccer stats retrieval](#soccer_stats)
+
+
+# Bots Updates Bot
+This bot will send update messages for all of our bots on our [discord server](https://discord.gg/ZDankYjn).
+Example message below:
+<img width="533" height="246" alt="image" src="https://github.com/user-attachments/assets/ce6d5171-e753-4e39-875b-29a40d5793b9" />
 
 
 # Air Raid Alert Bot
@@ -17,7 +26,7 @@ V2:
 Notifications message:  
 ![image](https://github.com/user-attachments/assets/dddb0408-59e4-44cd-86cb-433d406ce135)
 
-
+<img width="483" height="495" alt="image" src="https://github.com/user-attachments/assets/f74d3284-d257-49e2-862c-b0370b85e032" />
 
 
 
@@ -29,6 +38,10 @@ This is a bot that lurks on telegram servers and gets messages about finding a n
 The bot will get the messages from another (telegram) bot that forwards the messages found to a private telegram server that we have access to. The bot will parse the message and translate it and then:
 1. Forwards the message including photos/videos to a discord server and
 2. Takes the message including up to 4 photos/videos and makes a post on <a href="https://x.com/LostWarBot">twitter</a> about it.
+
+<img width="468" height="560" alt="image" src="https://github.com/user-attachments/assets/a36422f9-6aea-43f4-98ab-77eec644272d" />
+
+
 ### Original Message (from telegram):
 
 <img width="437" height="413" alt="image" src="https://github.com/user-attachments/assets/3bbdad17-f862-4de2-9b76-558affaca88f" />
@@ -96,6 +109,9 @@ List of commands:
 * `/maps`
 
 <img width="485" height="389" alt="image" src="https://github.com/user-attachments/assets/f1c0147d-6170-447e-85ef-943affb18b3c" />
+
+<img width="1254" height="872" alt="image" src="https://github.com/user-attachments/assets/67604d31-7cda-42e2-a188-2f3c2f90e383" />
+
 
 <!----------------------------------------------------------------------------------------------------------------->
 
