@@ -31,23 +31,23 @@ The bot will get the messages from another (telegram) bot that forwards the mess
 2. Takes the message including up to 4 photos/videos and makes a post on <a href="https://x.com/LostWarBot">twitter</a> about it.
 ### Original Message (from telegram):
 
-![image](https://github.com/user-attachments/assets/12bf555a-bdad-4515-b97e-01c5993df2bb)
+<img width="437" height="413" alt="image" src="https://github.com/user-attachments/assets/3bbdad17-f862-4de2-9b76-558affaca88f" />
 
 ### Forwared Message (to telegram):
-![image](https://github.com/user-attachments/assets/783d2c89-d3a6-4978-af9a-6caa27363a3e)
+<img width="433" height="390" alt="image" src="https://github.com/user-attachments/assets/3f24ca3e-a47d-405e-a004-7a3e7e840525" />
 
 ### Translate & Add flavor text+apply filters:
-![image](https://github.com/user-attachments/assets/b9877710-802b-4de0-a7cb-28f263728eb6)
+<img width="1235" height="189" alt="image" src="https://github.com/user-attachments/assets/02f3a63d-7af7-4975-ac82-5a7fbe511b76" />
 
 Note: the `<@&1270820068187701298>` part of the string is for tagging the @VehLosses role on discord.
 
 ### Post on discord:
-![image](https://github.com/user-attachments/assets/e13df4c1-3c8e-4b71-a519-1d679fd168e9)
+<img width="510" height="392" alt="image" src="https://github.com/user-attachments/assets/a6ac536a-f75b-4ea9-9483-90e294c51ca3" />
 
 INFO: Some telegram videos are too large and will not be uploaded to discord (Discord limitation)
 
 ### Post on twitter:
-![image](https://github.com/user-attachments/assets/c525c026-fe90-40dc-bd5b-5f4cd1789761)
+<img width="532" height="397" alt="image" src="https://github.com/user-attachments/assets/1b5c46bc-e8b8-482b-bfbf-6780ca6740db" />
 
 INFO: Twitter does not allow for more than 4 media (images or videos) to be posted at a time.
 
@@ -95,7 +95,7 @@ List of commands:
 * `/help`
 * `/maps`
 
-![image](https://github.com/user-attachments/assets/02645370-76fe-46a8-a541-5c5b32e0743e)
+<img width="485" height="389" alt="image" src="https://github.com/user-attachments/assets/f1c0147d-6170-447e-85ef-943affb18b3c" />
 
 <!----------------------------------------------------------------------------------------------------------------->
 
@@ -134,7 +134,7 @@ Item Link = Link for each item on the steam community market.
 
 Smart house interface using multiple ESP8266 across different rooms, with various sensors.
 
-![image](https://github.com/sheiddy/ESP_SmartHome/assets/9354674/ed36b303-d84b-4073-b87d-57c090e39d6f)
+<img width="3637" height="1790" alt="image" src="https://github.com/user-attachments/assets/7af3784d-459e-4d2a-ae33-881eb335ad33" />
 
 <!----------------------------------------------------------------------------------------------------------------->
 
