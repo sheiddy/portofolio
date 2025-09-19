@@ -32,7 +32,7 @@ Notifications message:
 
 
 # <a id="vehicles-lost-tracker-bot" href="./vehtracker_bot.md">Vehicles Lost Tracker Bot</a>
-<a href="https://github.com/sheiddy/tedicross_modified">Repo</a>
+<a href="https://github.com/sheiddy/vehicles_lost_tracker">Repo</a>
 
 This is a bot that lurks on telegram servers and gets messages about finding a new vehicle that is destroyed or damaged in the Ukraine - Russia war (2022-).
 The bot will get the messages from another (telegram) bot that forwards the messages found to a private telegram server that we have access to. The bot will parse the message and translate it and then:
