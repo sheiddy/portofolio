@@ -2,7 +2,7 @@ Code status:
 
 [![Build and Compile TypeScript](https://github.com/sheiddy/tedicross_modified/actions/workflows/build.yml/badge.svg)](https://github.com/sheiddy/tedicross_modified/actions/workflows/build.yml)
 
-TediCross - forked and modified by @sheiddy
+Vehicles Loss Tracker - Heaviliy modified version of TediCross - modified by @sheiddy
 =========
 TediCross is a fork of a bot which bridges a chat in [Telegram](https://telegram.org) with a channel in [Discord](https://discord.com/) and modified to also post on [Twitter](https://twitter.com/).
 
