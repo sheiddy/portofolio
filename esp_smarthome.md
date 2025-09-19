@@ -1,4 +1,4 @@
 # ESP_SmartHome
 SmartHome_ESP
 
-![image](https://github.com/sheiddy/ESP_SmartHome/assets/9354674/ed36b303-d84b-4073-b87d-57c090e39d6f)
+<img width="3637" height="1790" alt="image" src="https://github.com/user-attachments/assets/97509569-e6e0-48af-b232-5f6c69a1e0e3" />
