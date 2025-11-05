@@ -1,14 +1,21 @@
 Following is a list of some of my projects, ordered by date, most recent first.
 
-1. Bots Updates Bot
-2. Air Raid Alert Bot
-3. [Vehicles Lost Tracker Bot](#vehicles-lost-tracker-bot)
-4. [Mapper Bot](#mapper_bot)
-5. [CSGO Trader Bot](#csgo_traderbot)
-6. [ESP Smart Home](#esp_smarthome)
-7. [Tarkov Companion](#tarkovcompanion)
-8. [ARK Webshop](#ark_webshop)
-9. [Soccer stats retrieval](#soccer_stats)
+1. WhatsApp Bill Examiner
+2. Bots Updates Bot
+3. Air Raid Alert Bot
+4. [Vehicles Lost Tracker Bot](#vehicles-lost-tracker-bot)
+5. [Mapper Bot](#mapper_bot)
+6. [CSGO Trader Bot](#csgo_traderbot)
+7. [ESP Smart Home](#esp_smarthome)
+8. [Tarkov Companion](#tarkovcompanion)
+9. [ARK Webshop](#ark_webshop)
+10. [Soccer stats retrieval](#soccer_stats)
+
+
+# WhatsApp Bill Examiner
+Send a picture of an invoice/receipt or even a bank statement on whatsapp to this bot and it will give you a list of all the items.
+<img width="3125" height="485" alt="image" src="https://github.com/user-attachments/assets/2e006a5a-76d6-49e5-a22f-12732580f4d6" />
+
 
 
 # Bots Updates Bot
