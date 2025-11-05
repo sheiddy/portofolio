@@ -3,7 +3,7 @@ Following is a list of some of my projects, ordered by date, most recent first.
 1. WhatsApp Bill Examiner
 2. Bots Updates Bot
 3. Air Raid Alert Bot
-4. [Vehicles Lost Tracker Bot](#vehicles-lost-tracker-bot)
+4. [Vehicles Lost Tracker](#vehicles-lost-tracker-bot)
 5. [Mapper Bot](#mapper_bot)
 6. [CSGO Trader Bot](#csgo_traderbot)
 7. [ESP Smart Home](#esp_smarthome)
@@ -38,7 +38,7 @@ Notifications message:
 
 
 
-# <a id="vehicles-lost-tracker-bot" href="./vehtracker_bot.md">Vehicles Lost Tracker Bot</a>
+# <a id="vehicles-lost-tracker-bot" href="./vehtracker_bot.md">Vehicles Lost Tracker</a>
 <a href="https://github.com/sheiddy/vehicles_lost_tracker">Repo</a>
 
 This is a bot that lurks on telegram servers and gets messages about finding a new vehicle that is destroyed or damaged in the Ukraine - Russia war (2022-).
