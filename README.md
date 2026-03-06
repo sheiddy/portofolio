@@ -3,26 +3,28 @@ Following is a list of some of my projects, ordered by date, most recent first.
 1. WhatsApp Bill Examiner
 2. Bots Updates Bot
 3. Air Raid Alert Bot
-4. [Vehicles Lost Tracker](#vehicles-lost-tracker-bot)
-5. [Mapper Bot](#mapper_bot)
-6. [CSGO Trader Bot](#csgo_traderbot)
-7. [ESP Smart Home](#esp_smarthome)
-8. [Tarkov Companion](#tarkovcompanion)
-9. [ARK Webshop](#ark_webshop)
-10. [Soccer stats retrieval](#soccer_stats)
+4. [themilitarydatabase.com - Military Equipment Database](#themilitarydatabase.com)
+5. [Vehicles Lost Tracker](#vehicles-lost-tracker-bot)
+6. [Mapper Bot](#mapper_bot)
+7. [CSGO Trader Bot](#csgo_traderbot)
+8. [ESP Smart Home](#esp_smarthome)
+9. [Tarkov Companion](#tarkovcompanion)
+10. [ARK Webshop](#ark_webshop)
+11. [Soccer stats retrieval](#soccer_stats)
 
 
 # WhatsApp Bill Examiner
 Send a picture of an invoice/receipt or even a bank statement on whatsapp to this bot and it will give you a list of all the items.
 <img width="3125" height="485" alt="image" src="https://github.com/user-attachments/assets/2e006a5a-76d6-49e5-a22f-12732580f4d6" />
 
-
+<!----------------------------------------------------------------------------------------------------------------->
 
 # Bots Updates Bot
 This bot will send update messages for all of our bots on our [discord server](https://discord.gg/ZDankYjn).
 Example message below:
 <img width="533" height="246" alt="image" src="https://github.com/user-attachments/assets/ce6d5171-e753-4e39-875b-29a40d5793b9" />
 
+<!----------------------------------------------------------------------------------------------------------------->
 
 # Air Raid Alert Bot
 Discord notifications of air raids alerts in Ukraine. Done in n8n. Will send city/region update and oblast raid alerts with an associated oblasts map.  
@@ -35,10 +37,19 @@ Notifications message:
 
 <img width="483" height="495" alt="image" src="https://github.com/user-attachments/assets/f74d3284-d257-49e2-862c-b0370b85e032" />
 
+<!----------------------------------------------------------------------------------------------------------------->
 
+# <a id="themilitarydatabase.com">themilitarydatabase.com</a>  
 
+Military vehicles database [WIP].
+
+<a href="https://github.com/sheiddy/themilitarydatabase-nextjs">Repo</a>
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/f44b1e96-3b29-41f9-a7db-b78928a4e506" />
+
+<!----------------------------------------------------------------------------------------------------------------->
 
 # <a id="vehicles-lost-tracker-bot" href="./vehtracker_bot.md">Vehicles Lost Tracker</a>
+
 <a href="https://github.com/sheiddy/vehicles_lost_tracker">Repo</a>
 
 This is a bot that lurks on telegram servers and gets messages about finding a new vehicle that is destroyed or damaged in the Ukraine - Russia war (2022-).
@@ -47,7 +58,6 @@ The bot will get the messages from another (telegram) bot that forwards the mess
 2. Takes the message including up to 4 photos/videos and makes a post on <a href="https://x.com/LostWarBot">twitter</a> about it.
 
 <img width="468" height="560" alt="image" src="https://github.com/user-attachments/assets/a36422f9-6aea-43f4-98ab-77eec644272d" />
-
 
 ### Original Message (from telegram):
 
@@ -118,7 +128,6 @@ List of commands:
 <img width="485" height="389" alt="image" src="https://github.com/user-attachments/assets/f1c0147d-6170-447e-85ef-943affb18b3c" />
 
 <img width="1254" height="872" alt="image" src="https://github.com/user-attachments/assets/67604d31-7cda-42e2-a188-2f3c2f90e383" />
-
 
 <!----------------------------------------------------------------------------------------------------------------->
 
