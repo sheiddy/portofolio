@@ -43,7 +43,8 @@ Notifications message:
 
 Military vehicles database [WIP].
 
-<a href="https://github.com/sheiddy/themilitarydatabase-nextjs">Repo</a>
+<a href="https://github.com/sheiddy/themilitarydatabase-nextjs">App Repo</a>
+<a href="https://github.com/sheiddy/military_lists">Equipment List Repo</a>
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/f44b1e96-3b29-41f9-a7db-b78928a4e506" />
 
 <!----------------------------------------------------------------------------------------------------------------->
