@@ -39,7 +39,7 @@ Notifications message:
 
 <!----------------------------------------------------------------------------------------------------------------->
 
-# <a id="themilitarydatabase.com">themilitarydatabase.com</a>  
+# <a id="themilitarydatabase.com" href="https://github.com/sheiddy/themilitarydatabase-nextjs">themilitarydatabase.com</a>  
 
 Military vehicles database [WIP].
 
