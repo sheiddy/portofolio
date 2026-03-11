@@ -21,7 +21,7 @@ Send a picture of an invoice/receipt or even a bank statement on whatsapp to thi
 
 # Bots Updates Bot
 This bot will send update messages for all of our bots on our [discord server](https://discord.gg/ZDankYjn).
-Example message below:
+Example message below:  
 <img width="533" height="246" alt="image" src="https://github.com/user-attachments/assets/ce6d5171-e753-4e39-875b-29a40d5793b9" />
 
 <!----------------------------------------------------------------------------------------------------------------->
@@ -41,7 +41,8 @@ Notifications message:
 
 # <a id="themilitarydatabase.com" href="https://themilitarydatabase.com">themilitarydatabase.com</a>  
 
-Military vehicles database [WIP].
+Military vehicles database [WIP].  
+<a href="https://themilitarydatabase.com">themilitarydatabase.com</a>
 
 <a href="https://github.com/sheiddy/themilitarydatabase-nextjs">App Repo</a>
 
